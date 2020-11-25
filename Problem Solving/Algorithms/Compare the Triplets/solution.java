@@ -1,3 +1,5 @@
+//Question-- https://www.hackerrank.com/challenges/compare-the-triplets/problem
+
 //Comparing elements of one Array to the other
 
 import java.io.*;
