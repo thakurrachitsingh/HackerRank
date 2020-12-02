@@ -20,6 +20,7 @@ public class Solution {
         }
         for(int a: arr){
             System.out.print(a+" ");
+            
         }
         
     }
